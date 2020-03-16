@@ -1,0 +1,5 @@
+buton click içine
+if { listbox1.selectedindex==0)
+this.backcolor = color.blue;
+else if (listbox1.selectedýndex==1)
+this.backcolor == color.red;

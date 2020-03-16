@@ -1,0 +1,2 @@
+if (textbox1.text =="1")
+{textbox2.text="ocak1";)

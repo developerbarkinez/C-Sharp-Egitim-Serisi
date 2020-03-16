@@ -1,0 +1,9 @@
+E:\Görsel Programlama\ilk_program\ilk_program\bin\Debug\ilk_program.exe.config
+E:\Görsel Programlama\ilk_program\ilk_program\bin\Debug\ilk_program.exe
+E:\Görsel Programlama\ilk_program\ilk_program\bin\Debug\ilk_program.pdb
+E:\Görsel Programlama\ilk_program\ilk_program\obj\Debug\ilk_program.csprojResolveAssemblyReference.cache
+E:\Görsel Programlama\ilk_program\ilk_program\obj\Debug\ilk_program.Form1.resources
+E:\Görsel Programlama\ilk_program\ilk_program\obj\Debug\ilk_program.Properties.Resources.resources
+E:\Görsel Programlama\ilk_program\ilk_program\obj\Debug\ilk_program.csproj.GenerateResource.Cache
+E:\Görsel Programlama\ilk_program\ilk_program\obj\Debug\ilk_program.exe
+E:\Görsel Programlama\ilk_program\ilk_program\obj\Debug\ilk_program.pdb

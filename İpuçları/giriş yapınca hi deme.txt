@@ -1,0 +1,1 @@
+messagebox.shoe("HÝ" + "+textbox1.text" + "+texbotx2.text");

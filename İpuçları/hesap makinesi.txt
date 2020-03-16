@@ -1,0 +1,4 @@
+int a,b;
+a=convert.toint32(texbtobx1.text);
+b=convert.toint32(textbox2.text);
+textbox2.text = (a+b).Tostring();

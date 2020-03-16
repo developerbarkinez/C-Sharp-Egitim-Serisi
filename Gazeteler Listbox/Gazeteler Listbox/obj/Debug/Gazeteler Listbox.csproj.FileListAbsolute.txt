@@ -1,0 +1,9 @@
+F:\c# visual egzersizler\Gazeteler Listbox\Gazeteler Listbox\bin\Debug\Gazeteler Listbox.exe.config
+F:\c# visual egzersizler\Gazeteler Listbox\Gazeteler Listbox\bin\Debug\Gazeteler Listbox.exe
+F:\c# visual egzersizler\Gazeteler Listbox\Gazeteler Listbox\bin\Debug\Gazeteler Listbox.pdb
+F:\c# visual egzersizler\Gazeteler Listbox\Gazeteler Listbox\obj\Debug\Gazeteler Listbox.csprojResolveAssemblyReference.cache
+F:\c# visual egzersizler\Gazeteler Listbox\Gazeteler Listbox\obj\Debug\Gazeteler_Listbox.Form1.resources
+F:\c# visual egzersizler\Gazeteler Listbox\Gazeteler Listbox\obj\Debug\Gazeteler_Listbox.Properties.Resources.resources
+F:\c# visual egzersizler\Gazeteler Listbox\Gazeteler Listbox\obj\Debug\Gazeteler Listbox.csproj.GenerateResource.Cache
+F:\c# visual egzersizler\Gazeteler Listbox\Gazeteler Listbox\obj\Debug\Gazeteler Listbox.exe
+F:\c# visual egzersizler\Gazeteler Listbox\Gazeteler Listbox\obj\Debug\Gazeteler Listbox.pdb

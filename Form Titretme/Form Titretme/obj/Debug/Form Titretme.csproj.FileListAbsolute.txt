@@ -1,0 +1,19 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Form Titretme\Form Titretme\bin\Debug\Form Titretme.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Form Titretme\Form Titretme\bin\Debug\Form Titretme.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Form Titretme\Form Titretme\bin\Debug\Form Titretme.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Form Titretme\Form Titretme\obj\Debug\Form Titretme.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Form Titretme\Form Titretme\obj\Debug\Form_Titretme.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Form Titretme\Form Titretme\obj\Debug\Form_Titretme.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Form Titretme\Form Titretme\obj\Debug\Form Titretme.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Form Titretme\Form Titretme\obj\Debug\Form Titretme.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Form Titretme\Form Titretme\obj\Debug\Form Titretme.pdb
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Form Titretme\Form Titretme\bin\Debug\Form Titretme.exe.config
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Form Titretme\Form Titretme\bin\Debug\Form Titretme.exe
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Form Titretme\Form Titretme\bin\Debug\Form Titretme.pdb
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Form Titretme\Form Titretme\obj\Debug\Form Titretme.csprojAssemblyReference.cache
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Form Titretme\Form Titretme\obj\Debug\Form_Titretme.Form1.resources
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Form Titretme\Form Titretme\obj\Debug\Form_Titretme.Properties.Resources.resources
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Form Titretme\Form Titretme\obj\Debug\Form Titretme.csproj.GenerateResource.cache
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Form Titretme\Form Titretme\obj\Debug\Form Titretme.csproj.CoreCompileInputs.cache
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Form Titretme\Form Titretme\obj\Debug\Form Titretme.exe
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Form Titretme\Form Titretme\obj\Debug\Form Titretme.pdb

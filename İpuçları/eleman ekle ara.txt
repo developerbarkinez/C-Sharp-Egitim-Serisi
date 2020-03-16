@@ -1,0 +1,5 @@
+listbox1.items.add(textbox1.text);
+
+buton 2 içine
+
+label2.text=textbox1.itemse.Indexof (textbox2.text1.tostring();

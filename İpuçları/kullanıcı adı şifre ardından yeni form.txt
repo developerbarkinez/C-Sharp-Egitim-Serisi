@@ -1,0 +1,9 @@
+buton click içine
+string kullanici;
+string sifre;
+kullanici = textbox1.text;
+sifre = textbox2.text;
+if(kullanici == "Kaan" && sifre =="123")
+{ this.hide();
+forum 2 f2 = new form2();
+f2.show

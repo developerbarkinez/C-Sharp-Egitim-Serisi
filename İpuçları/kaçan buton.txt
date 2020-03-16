@@ -1,0 +1,7 @@
+mouse enter içine
+random a = new random();
+button1.left = a.next(this.widht-60);
+button1.top = a.next(this.height-55);
+
+button click içine
+messagebox.show("tebrikler")
