@@ -19,5 +19,5 @@ Uygulamanın içeriğinde neler mi var?
 *While Döngüsü
 *İnt,Float,Double Gibi Sayısal Değişkenler
 *Sql Database Bağlantısı
-*Kendinizi Pekiştirip Okulunuzda veya çalıştığınız yerde sunabileceğiniz Örnek Uygulamarı sizlere sunuyorum.
+*Kendinizi Pekiştirip Okulunuzda veya çalıştığınız yerde sunabileceğiniz Örnek Uygulamaları sizlere sunuyorum.
 
