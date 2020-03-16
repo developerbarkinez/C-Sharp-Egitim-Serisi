@@ -1,0 +1,10 @@
+C:\Users\barkines\Desktop\kronometre\ders1\bin\Debug\ders1.exe.config
+C:\Users\barkines\Desktop\kronometre\ders1\bin\Debug\ders1.exe
+C:\Users\barkines\Desktop\kronometre\ders1\bin\Debug\ders1.pdb
+C:\Users\barkines\Desktop\kronometre\ders1\obj\Debug\ders1.csprojAssemblyReference.cache
+C:\Users\barkines\Desktop\kronometre\ders1\obj\Debug\ders1.Form1.resources
+C:\Users\barkines\Desktop\kronometre\ders1\obj\Debug\ders1.Properties.Resources.resources
+C:\Users\barkines\Desktop\kronometre\ders1\obj\Debug\ders1.csproj.GenerateResource.cache
+C:\Users\barkines\Desktop\kronometre\ders1\obj\Debug\ders1.csproj.CoreCompileInputs.cache
+C:\Users\barkines\Desktop\kronometre\ders1\obj\Debug\ders1.exe
+C:\Users\barkines\Desktop\kronometre\ders1\obj\Debug\ders1.pdb

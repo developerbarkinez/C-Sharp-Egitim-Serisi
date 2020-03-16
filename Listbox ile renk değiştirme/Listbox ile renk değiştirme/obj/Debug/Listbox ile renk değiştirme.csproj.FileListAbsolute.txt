@@ -1,0 +1,9 @@
+F:\c# visual egzersizler\Listbox ile renk değiştirme\Listbox ile renk değiştirme\bin\Debug\Listbox ile renk değiştirme.exe.config
+F:\c# visual egzersizler\Listbox ile renk değiştirme\Listbox ile renk değiştirme\bin\Debug\Listbox ile renk değiştirme.exe
+F:\c# visual egzersizler\Listbox ile renk değiştirme\Listbox ile renk değiştirme\bin\Debug\Listbox ile renk değiştirme.pdb
+F:\c# visual egzersizler\Listbox ile renk değiştirme\Listbox ile renk değiştirme\obj\Debug\Listbox ile renk değiştirme.csprojResolveAssemblyReference.cache
+F:\c# visual egzersizler\Listbox ile renk değiştirme\Listbox ile renk değiştirme\obj\Debug\Listbox_ile_renk_değiştirme.Form1.resources
+F:\c# visual egzersizler\Listbox ile renk değiştirme\Listbox ile renk değiştirme\obj\Debug\Listbox_ile_renk_değiştirme.Properties.Resources.resources
+F:\c# visual egzersizler\Listbox ile renk değiştirme\Listbox ile renk değiştirme\obj\Debug\Listbox ile renk değiştirme.csproj.GenerateResource.Cache
+F:\c# visual egzersizler\Listbox ile renk değiştirme\Listbox ile renk değiştirme\obj\Debug\Listbox ile renk değiştirme.exe
+F:\c# visual egzersizler\Listbox ile renk değiştirme\Listbox ile renk değiştirme\obj\Debug\Listbox ile renk değiştirme.pdb

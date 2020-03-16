@@ -1,0 +1,19 @@
+F:\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\bin\Debug\KüçükOlanBüyükolanSayı.exe.config
+F:\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\bin\Debug\KüçükOlanBüyükolanSayı.exe
+F:\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\bin\Debug\KüçükOlanBüyükolanSayı.pdb
+F:\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.csprojResolveAssemblyReference.cache
+F:\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.Form1.resources
+F:\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.Properties.Resources.resources
+F:\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.csproj.GenerateResource.Cache
+F:\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.exe
+F:\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.pdb
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\bin\Debug\KüçükOlanBüyükolanSayı.exe.config
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\bin\Debug\KüçükOlanBüyükolanSayı.exe
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\bin\Debug\KüçükOlanBüyükolanSayı.pdb
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.csprojAssemblyReference.cache
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.Form1.resources
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.Properties.Resources.resources
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.csproj.GenerateResource.cache
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.csproj.CoreCompileInputs.cache
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.exe
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\KüçükOlanBüyükolanSayı\KüçükOlanBüyükolanSayı\obj\Debug\KüçükOlanBüyükolanSayı.pdb
