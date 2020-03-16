@@ -1,0 +1,33 @@
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.exe.config
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.csprojResolveAssemblyReference.cache
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek_Çift_Sayılar.Form1.resources
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek_Çift_Sayılar.Properties.Resources.resources
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.csproj.GenerateResource.Cache
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.exe
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.pdb
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.exe
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.pdb
+D:\Tek Çift Sayılar\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.exe.config
+D:\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.exe
+D:\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.pdb
+D:\Tek Çift Sayılar\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.exe
+D:\Tek Çift Sayılar\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.pdb
+D:\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.csprojResolveAssemblyReference.cache
+D:\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek_Çift_Sayılar.Form1.resources
+D:\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek_Çift_Sayılar.Properties.Resources.resources
+D:\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.csproj.GenerateResource.Cache
+D:\görsel programlama yeni 2019\Tek Çift Sayılar\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.exe.config
+D:\görsel programlama yeni 2019\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.exe
+D:\görsel programlama yeni 2019\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.pdb
+C:\Users\Student\Desktop\Tek Çift Sayılar2\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.exe.config
+C:\Users\Student\Desktop\Tek Çift Sayılar2\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.exe
+C:\Users\Student\Desktop\Tek Çift Sayılar2\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.pdb
+F:\c# visual egzersizler\Tek Çift Sayılar2\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.exe.config
+F:\c# visual egzersizler\Tek Çift Sayılar2\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.exe
+F:\c# visual egzersizler\Tek Çift Sayılar2\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.pdb
+F:\c# visual egzersizler\Tek Çift Sayılar2\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.csprojResolveAssemblyReference.cache
+F:\c# visual egzersizler\Tek Çift Sayılar2\Tek Çift Sayılar\obj\Debug\Tek_Çift_Sayılar.Form1.resources
+F:\c# visual egzersizler\Tek Çift Sayılar2\Tek Çift Sayılar\obj\Debug\Tek_Çift_Sayılar.Properties.Resources.resources
+F:\c# visual egzersizler\Tek Çift Sayılar2\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.csproj.GenerateResource.Cache
+F:\c# visual egzersizler\Tek Çift Sayılar2\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.exe
+F:\c# visual egzersizler\Tek Çift Sayılar2\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.pdb

@@ -1,0 +1,9 @@
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.exe.config
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.csprojResolveAssemblyReference.cache
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek_Çift_Sayılar.Form1.resources
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek_Çift_Sayılar.Properties.Resources.resources
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.csproj.GenerateResource.Cache
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.exe
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\bin\Debug\Tek Çift Sayılar.pdb
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.exe
+F:\c# visual egzersizler\Tek Çift Sayılar\Tek Çift Sayılar\obj\Debug\Tek Çift Sayılar.pdb

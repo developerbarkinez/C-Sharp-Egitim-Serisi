@@ -1,0 +1,8 @@
+c:\users\nesrin\documents\visual studio 2015\Projects\substring2\substring2\bin\Debug\substring2.exe.config
+c:\users\nesrin\documents\visual studio 2015\Projects\substring2\substring2\bin\Debug\substring2.exe
+c:\users\nesrin\documents\visual studio 2015\Projects\substring2\substring2\bin\Debug\substring2.pdb
+c:\users\nesrin\documents\visual studio 2015\Projects\substring2\substring2\obj\Debug\substring2.Form1.resources
+c:\users\nesrin\documents\visual studio 2015\Projects\substring2\substring2\obj\Debug\substring2.Properties.Resources.resources
+c:\users\nesrin\documents\visual studio 2015\Projects\substring2\substring2\obj\Debug\substring2.csproj.GenerateResource.Cache
+c:\users\nesrin\documents\visual studio 2015\Projects\substring2\substring2\obj\Debug\substring2.exe
+c:\users\nesrin\documents\visual studio 2015\Projects\substring2\substring2\obj\Debug\substring2.pdb

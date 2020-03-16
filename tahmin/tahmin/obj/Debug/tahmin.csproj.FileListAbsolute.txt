@@ -1,0 +1,17 @@
+E:\Görsel Programlama\tahmin\tahmin\bin\Debug\tahmin.exe.config
+E:\Görsel Programlama\tahmin\tahmin\bin\Debug\tahmin.exe
+E:\Görsel Programlama\tahmin\tahmin\bin\Debug\tahmin.pdb
+E:\Görsel Programlama\tahmin\tahmin\obj\Debug\tahmin.Form1.resources
+E:\Görsel Programlama\tahmin\tahmin\obj\Debug\tahmin.Properties.Resources.resources
+E:\Görsel Programlama\tahmin\tahmin\obj\Debug\tahmin.csproj.GenerateResource.Cache
+E:\Görsel Programlama\tahmin\tahmin\obj\Debug\tahmin.exe
+E:\Görsel Programlama\tahmin\tahmin\obj\Debug\tahmin.pdb
+C:\Users\Kaan\Desktop\Görsel Programlama\tahmin\tahmin\bin\Debug\tahmin.exe.config
+C:\Users\Kaan\Desktop\Görsel Programlama\tahmin\tahmin\bin\Debug\tahmin.exe
+C:\Users\Kaan\Desktop\Görsel Programlama\tahmin\tahmin\bin\Debug\tahmin.pdb
+C:\Users\Kaan\Desktop\Görsel Programlama\tahmin\tahmin\obj\Debug\tahmin.Form1.resources
+C:\Users\Kaan\Desktop\Görsel Programlama\tahmin\tahmin\obj\Debug\tahmin.Properties.Resources.resources
+C:\Users\Kaan\Desktop\Görsel Programlama\tahmin\tahmin\obj\Debug\tahmin.csproj.GenerateResource.Cache
+C:\Users\Kaan\Desktop\Görsel Programlama\tahmin\tahmin\obj\Debug\tahmin.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\Görsel Programlama\tahmin\tahmin\obj\Debug\tahmin.exe
+C:\Users\Kaan\Desktop\Görsel Programlama\tahmin\tahmin\obj\Debug\tahmin.pdb
