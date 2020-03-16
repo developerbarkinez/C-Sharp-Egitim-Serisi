@@ -1,0 +1,12 @@
+F:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\bin\Debug\Boy Kütle İndeksi.exe.config
+F:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\bin\Debug\Boy Kütle İndeksi.exe
+F:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\bin\Debug\Boy Kütle İndeksi.pdb
+F:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\obj\Debug\Boy Kütle İndeksi.csprojResolveAssemblyReference.cache
+F:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\obj\Debug\Boy_Kütle_İndeksi.Form1.resources
+F:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\obj\Debug\Boy_Kütle_İndeksi.Properties.Resources.resources
+F:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\obj\Debug\Boy Kütle İndeksi.csproj.GenerateResource.Cache
+F:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\obj\Debug\Boy Kütle İndeksi.exe
+F:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\obj\Debug\Boy Kütle İndeksi.pdb
+E:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\bin\Debug\Boy Kütle İndeksi.exe.config
+E:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\obj\Debug\Boy Kütle İndeksi.exe
+E:\c# visual egzersizler\Boy Kütle İndeksi\Boy Kütle İndeksi\obj\Debug\Boy Kütle İndeksi.pdb

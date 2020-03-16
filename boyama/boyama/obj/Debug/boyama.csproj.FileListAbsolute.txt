@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\boyama\boyama\bin\Debug\boyama.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\boyama\boyama\bin\Debug\boyama.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\boyama\boyama\bin\Debug\boyama.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\boyama\boyama\obj\Debug\boyama.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\boyama\boyama\obj\Debug\boyama.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\boyama\boyama\obj\Debug\boyama.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\boyama\boyama\obj\Debug\boyama.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\boyama\boyama\obj\Debug\boyama.pdb

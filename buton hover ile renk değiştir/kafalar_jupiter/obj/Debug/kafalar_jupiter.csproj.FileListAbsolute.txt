@@ -1,0 +1,37 @@
+E:\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\bin\Debug\kafalar_jupiter.exe.config
+E:\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\bin\Debug\kafalar_jupiter.exe
+E:\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\bin\Debug\kafalar_jupiter.pdb
+E:\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.csprojResolveAssemblyReference.cache
+E:\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.Form1.resources
+E:\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.Properties.Resources.resources
+E:\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.csproj.GenerateResource.Cache
+E:\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.exe
+E:\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.pdb
+C:\Users\Kaan\Desktop\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\bin\Debug\kafalar_jupiter.exe.config
+C:\Users\Kaan\Desktop\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\bin\Debug\kafalar_jupiter.exe
+C:\Users\Kaan\Desktop\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\bin\Debug\kafalar_jupiter.pdb
+C:\Users\Kaan\Desktop\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.csprojResolveAssemblyReference.cache
+C:\Users\Kaan\Desktop\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.Form1.resources
+C:\Users\Kaan\Desktop\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.Properties.Resources.resources
+C:\Users\Kaan\Desktop\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.csproj.GenerateResource.Cache
+C:\Users\Kaan\Desktop\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.exe
+C:\Users\Kaan\Desktop\Görsel Programlama\kafalar_jupiter\kafalar_jupiter\obj\Debug\kafalar_jupiter.pdb
+E:\Projects\buton hover ile renk değiştir\kafalar_jupiter\bin\Debug\kafalar_jupiter.exe.config
+E:\Projects\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.exe
+E:\Projects\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.pdb
+E:\Projects\buton hover ile renk değiştir\kafalar_jupiter\bin\Debug\kafalar_jupiter.exe
+E:\Projects\buton hover ile renk değiştir\kafalar_jupiter\bin\Debug\kafalar_jupiter.pdb
+E:\Projects\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.csprojResolveAssemblyReference.cache
+E:\Projects\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.Form1.resources
+E:\Projects\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.Properties.Resources.resources
+E:\Projects\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.csproj.GenerateResource.Cache
+F:\c# visual egzersizler\buton hover ile renk değiştir\kafalar_jupiter\bin\Debug\kafalar_jupiter.exe.config
+F:\c# visual egzersizler\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.exe
+F:\c# visual egzersizler\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.pdb
+F:\c# visual egzersizler\buton hover ile renk değiştir\kafalar_jupiter\bin\Debug\kafalar_jupiter.exe
+F:\c# visual egzersizler\buton hover ile renk değiştir\kafalar_jupiter\bin\Debug\kafalar_jupiter.pdb
+F:\c# visual egzersizler\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.csprojResolveAssemblyReference.cache
+F:\c# visual egzersizler\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.Form1.resources
+F:\c# visual egzersizler\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.Properties.Resources.resources
+F:\c# visual egzersizler\buton hover ile renk değiştir\kafalar_jupiter\obj\Debug\kafalar_jupiter.csproj.GenerateResource.Cache

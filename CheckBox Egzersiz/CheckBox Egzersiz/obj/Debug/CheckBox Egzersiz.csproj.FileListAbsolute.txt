@@ -1,0 +1,9 @@
+F:\c# visual egzersizler\CheckBox Egzersiz\CheckBox Egzersiz\bin\Debug\CheckBox Egzersiz.exe.config
+F:\c# visual egzersizler\CheckBox Egzersiz\CheckBox Egzersiz\bin\Debug\CheckBox Egzersiz.exe
+F:\c# visual egzersizler\CheckBox Egzersiz\CheckBox Egzersiz\bin\Debug\CheckBox Egzersiz.pdb
+F:\c# visual egzersizler\CheckBox Egzersiz\CheckBox Egzersiz\obj\Debug\CheckBox Egzersiz.csprojResolveAssemblyReference.cache
+F:\c# visual egzersizler\CheckBox Egzersiz\CheckBox Egzersiz\obj\Debug\CheckBox_Egzersiz.Form1.resources
+F:\c# visual egzersizler\CheckBox Egzersiz\CheckBox Egzersiz\obj\Debug\CheckBox_Egzersiz.Properties.Resources.resources
+F:\c# visual egzersizler\CheckBox Egzersiz\CheckBox Egzersiz\obj\Debug\CheckBox Egzersiz.csproj.GenerateResource.Cache
+F:\c# visual egzersizler\CheckBox Egzersiz\CheckBox Egzersiz\obj\Debug\CheckBox Egzersiz.exe
+F:\c# visual egzersizler\CheckBox Egzersiz\CheckBox Egzersiz\obj\Debug\CheckBox Egzersiz.pdb
