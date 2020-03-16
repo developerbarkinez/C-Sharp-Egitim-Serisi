@@ -1,0 +1,12 @@
+c:\users\nesrin\documents\visual studio 2015\Projects\basamaklarınaayır\basamaklarınaayır\bin\Debug\basamaklarınaayır.exe.config
+c:\users\nesrin\documents\visual studio 2015\Projects\basamaklarınaayır\basamaklarınaayır\bin\Debug\basamaklarınaayır.exe
+c:\users\nesrin\documents\visual studio 2015\Projects\basamaklarınaayır\basamaklarınaayır\bin\Debug\basamaklarınaayır.pdb
+c:\users\nesrin\documents\visual studio 2015\Projects\basamaklarınaayır\basamaklarınaayır\obj\Debug\basamaklarınaayır.csprojResolveAssemblyReference.cache
+c:\users\nesrin\documents\visual studio 2015\Projects\basamaklarınaayır\basamaklarınaayır\obj\Debug\basamaklarınaayır.Form1.resources
+c:\users\nesrin\documents\visual studio 2015\Projects\basamaklarınaayır\basamaklarınaayır\obj\Debug\basamaklarınaayır.Properties.Resources.resources
+c:\users\nesrin\documents\visual studio 2015\Projects\basamaklarınaayır\basamaklarınaayır\obj\Debug\basamaklarınaayır.csproj.GenerateResource.Cache
+c:\users\nesrin\documents\visual studio 2015\Projects\basamaklarınaayır\basamaklarınaayır\obj\Debug\basamaklarınaayır.exe
+c:\users\nesrin\documents\visual studio 2015\Projects\basamaklarınaayır\basamaklarınaayır\obj\Debug\basamaklarınaayır.pdb
+C:\Users\Student\uygulama görsel\basamaklarınaayır\basamaklarınaayır\bin\Debug\basamaklarınaayır.exe.config
+C:\Users\Student\uygulama görsel\basamaklarınaayır\basamaklarınaayır\obj\Debug\basamaklarınaayır.exe
+C:\Users\Student\uygulama görsel\basamaklarınaayır\basamaklarınaayır\obj\Debug\basamaklarınaayır.pdb

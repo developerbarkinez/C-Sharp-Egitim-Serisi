@@ -1,0 +1,10 @@
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.exe.config
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.exe
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.pdb
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csprojAssemblyReference.cache
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form1.resources
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Properties.Resources.resources
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.GenerateResource.cache
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.CoreCompileInputs.cache
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.exe
+C:\Users\barkines\Desktop\pc programlama\c# visual egzersizler\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.pdb

@@ -1,0 +1,19 @@
+C:\Users\barkines\Desktop\pc programlama\visual c#\murat yücedağ\At Yarışı\At Yarışı\bin\Debug\At Yarışı.exe.config
+C:\Users\barkines\Desktop\pc programlama\visual c#\murat yücedağ\At Yarışı\At Yarışı\bin\Debug\At Yarışı.exe
+C:\Users\barkines\Desktop\pc programlama\visual c#\murat yücedağ\At Yarışı\At Yarışı\bin\Debug\At Yarışı.pdb
+C:\Users\barkines\Desktop\pc programlama\visual c#\murat yücedağ\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csprojAssemblyReference.cache
+C:\Users\barkines\Desktop\pc programlama\visual c#\murat yücedağ\At Yarışı\At Yarışı\obj\Debug\At_Yarışı.Form1.resources
+C:\Users\barkines\Desktop\pc programlama\visual c#\murat yücedağ\At Yarışı\At Yarışı\obj\Debug\At_Yarışı.Properties.Resources.resources
+C:\Users\barkines\Desktop\pc programlama\visual c#\murat yücedağ\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csproj.GenerateResource.cache
+C:\Users\barkines\Desktop\pc programlama\visual c#\murat yücedağ\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\barkines\Desktop\pc programlama\visual c#\murat yücedağ\At Yarışı\At Yarışı\obj\Debug\At Yarışı.exe
+C:\Users\barkines\Desktop\pc programlama\visual c#\murat yücedağ\At Yarışı\At Yarışı\obj\Debug\At Yarışı.pdb
+F:\c# visual egzersizler\At Yarışı\At Yarışı\bin\Debug\At Yarışı.exe.config
+F:\c# visual egzersizler\At Yarışı\At Yarışı\bin\Debug\At Yarışı.exe
+F:\c# visual egzersizler\At Yarışı\At Yarışı\bin\Debug\At Yarışı.pdb
+F:\c# visual egzersizler\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csprojResolveAssemblyReference.cache
+F:\c# visual egzersizler\At Yarışı\At Yarışı\obj\Debug\At_Yarışı.Form1.resources
+F:\c# visual egzersizler\At Yarışı\At Yarışı\obj\Debug\At_Yarışı.Properties.Resources.resources
+F:\c# visual egzersizler\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csproj.GenerateResource.Cache
+F:\c# visual egzersizler\At Yarışı\At Yarışı\obj\Debug\At Yarışı.exe
+F:\c# visual egzersizler\At Yarışı\At Yarışı\obj\Debug\At Yarışı.pdb

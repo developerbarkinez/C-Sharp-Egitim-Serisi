@@ -1,0 +1,19 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ay\ay\bin\Debug\ay.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ay\ay\bin\Debug\ay.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ay\ay\bin\Debug\ay.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ay\ay\obj\Debug\ay.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ay\ay\obj\Debug\ay.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ay\ay\obj\Debug\ay.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ay\ay\obj\Debug\ay.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ay\ay\obj\Debug\ay.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ay\ay\obj\Debug\ay.pdb
+C:\Users\Kaan\Desktop\Görsel Programlama\ay\ay\bin\Debug\ay.exe.config
+C:\Users\Kaan\Desktop\Görsel Programlama\ay\ay\bin\Debug\ay.exe
+C:\Users\Kaan\Desktop\Görsel Programlama\ay\ay\bin\Debug\ay.pdb
+C:\Users\Kaan\Desktop\Görsel Programlama\ay\ay\obj\Debug\ay.csprojResolveAssemblyReference.cache
+C:\Users\Kaan\Desktop\Görsel Programlama\ay\ay\obj\Debug\ay.Form1.resources
+C:\Users\Kaan\Desktop\Görsel Programlama\ay\ay\obj\Debug\ay.Properties.Resources.resources
+C:\Users\Kaan\Desktop\Görsel Programlama\ay\ay\obj\Debug\ay.csproj.GenerateResource.Cache
+C:\Users\Kaan\Desktop\Görsel Programlama\ay\ay\obj\Debug\ay.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\Görsel Programlama\ay\ay\obj\Debug\ay.exe
+C:\Users\Kaan\Desktop\Görsel Programlama\ay\ay\obj\Debug\ay.pdb

@@ -1,0 +1,10 @@
+C:\Users\barkines\Desktop\BarkinsForms\BarkinsForms\bin\Debug\BarkinsForms.exe.config
+C:\Users\barkines\Desktop\BarkinsForms\BarkinsForms\bin\Debug\BarkinsForms.exe
+C:\Users\barkines\Desktop\BarkinsForms\BarkinsForms\bin\Debug\BarkinsForms.pdb
+C:\Users\barkines\Desktop\BarkinsForms\BarkinsForms\obj\Debug\BarkinsForms.csprojAssemblyReference.cache
+C:\Users\barkines\Desktop\BarkinsForms\BarkinsForms\obj\Debug\BarkinsForms.Properties.Resources.resources
+C:\Users\barkines\Desktop\BarkinsForms\BarkinsForms\obj\Debug\BarkinsForms.csproj.GenerateResource.cache
+C:\Users\barkines\Desktop\BarkinsForms\BarkinsForms\obj\Debug\BarkinsForms.csproj.CoreCompileInputs.cache
+C:\Users\barkines\Desktop\BarkinsForms\BarkinsForms\obj\Debug\BarkinsForms.exe
+C:\Users\barkines\Desktop\BarkinsForms\BarkinsForms\obj\Debug\BarkinsForms.pdb
+C:\Users\barkines\Desktop\BarkinsForms\BarkinsForms\obj\Debug\BarkinsForms.frmekran.resources
