@@ -1,4 +1,5 @@
 # C-Sharp-Egitim-Serisi
+![alt text](https://i.hizliresim.com/Csx24M.gif)
 https://i.hizliresim.com/Csx24M.gif
 C# Eğitim Serilerine Hoş Geldiniz!
 0'dan ileri seviyeye tamamen ücretsiz c# eğitim serisi sizleri bekliyor.
