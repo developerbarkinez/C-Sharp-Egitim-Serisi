@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Döndürme\Döndürme\bin\Debug\Döndürme.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Döndürme\Döndürme\bin\Debug\Döndürme.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Döndürme\Döndürme\bin\Debug\Döndürme.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Döndürme\Döndürme\obj\Debug\Döndürme.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Döndürme\Döndürme\obj\Debug\Döndürme.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Döndürme\Döndürme\obj\Debug\Döndürme.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Döndürme\Döndürme\obj\Debug\Döndürme.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Döndürme\Döndürme\obj\Debug\Döndürme.pdb

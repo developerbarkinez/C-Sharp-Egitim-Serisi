@@ -1,0 +1,10 @@
+C:\Users\barkines\Desktop\Daire Döndürme\Daire Döndürme\bin\Debug\Daire Döndürme.exe.config
+C:\Users\barkines\Desktop\Daire Döndürme\Daire Döndürme\bin\Debug\Daire Döndürme.exe
+C:\Users\barkines\Desktop\Daire Döndürme\Daire Döndürme\bin\Debug\Daire Döndürme.pdb
+C:\Users\barkines\Desktop\Daire Döndürme\Daire Döndürme\obj\Debug\Daire Döndürme.csprojAssemblyReference.cache
+C:\Users\barkines\Desktop\Daire Döndürme\Daire Döndürme\obj\Debug\Daire_Döndürme.Form1.resources
+C:\Users\barkines\Desktop\Daire Döndürme\Daire Döndürme\obj\Debug\Daire_Döndürme.Properties.Resources.resources
+C:\Users\barkines\Desktop\Daire Döndürme\Daire Döndürme\obj\Debug\Daire Döndürme.csproj.GenerateResource.cache
+C:\Users\barkines\Desktop\Daire Döndürme\Daire Döndürme\obj\Debug\Daire Döndürme.csproj.CoreCompileInputs.cache
+C:\Users\barkines\Desktop\Daire Döndürme\Daire Döndürme\obj\Debug\Daire Döndürme.exe
+C:\Users\barkines\Desktop\Daire Döndürme\Daire Döndürme\obj\Debug\Daire Döndürme.pdb

@@ -1,0 +1,9 @@
+F:\c# visual egzersizler\EklenenveriÇıkarılanveri\EklenenveriÇıkarılanveri\bin\Debug\EklenenveriÇıkarılanveri.exe.config
+F:\c# visual egzersizler\EklenenveriÇıkarılanveri\EklenenveriÇıkarılanveri\bin\Debug\EklenenveriÇıkarılanveri.exe
+F:\c# visual egzersizler\EklenenveriÇıkarılanveri\EklenenveriÇıkarılanveri\bin\Debug\EklenenveriÇıkarılanveri.pdb
+F:\c# visual egzersizler\EklenenveriÇıkarılanveri\EklenenveriÇıkarılanveri\obj\Debug\EklenenveriÇıkarılanveri.csprojResolveAssemblyReference.cache
+F:\c# visual egzersizler\EklenenveriÇıkarılanveri\EklenenveriÇıkarılanveri\obj\Debug\EklenenveriÇıkarılanveri.Form1.resources
+F:\c# visual egzersizler\EklenenveriÇıkarılanveri\EklenenveriÇıkarılanveri\obj\Debug\EklenenveriÇıkarılanveri.Properties.Resources.resources
+F:\c# visual egzersizler\EklenenveriÇıkarılanveri\EklenenveriÇıkarılanveri\obj\Debug\EklenenveriÇıkarılanveri.csproj.GenerateResource.Cache
+F:\c# visual egzersizler\EklenenveriÇıkarılanveri\EklenenveriÇıkarılanveri\obj\Debug\EklenenveriÇıkarılanveri.exe
+F:\c# visual egzersizler\EklenenveriÇıkarılanveri\EklenenveriÇıkarılanveri\obj\Debug\EklenenveriÇıkarılanveri.pdb
